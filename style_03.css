@@ -1,0 +1,29 @@
+*{
+    margin: 5px;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+p{
+    font-family: sans-serif;
+    text-decoration: overline;
+    font-size: 2vw;
+}
+
+/* h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+*/
+
+h1{
+    line-height: 1.5;
+    text-align: center;
+}
